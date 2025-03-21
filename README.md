@@ -1,7 +1,8 @@
 # Simple-Calculator
 This is a simple, responsive web-based calculator built using HTML, CSS, and JavaScript. It supports basic arithmetic operations and has a clean, modern UI.
 
-Features
+
+**Features**
 
 Responsive design for different screen sizes
 
@@ -15,7 +16,8 @@ Displays calculated result only when needed
 
 Hover effects for better UX
 
-Technologies Used
+
+**Technologies Used**
 
 HTML for structure
 
